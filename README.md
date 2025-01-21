@@ -5,16 +5,13 @@
 Welcome to the official repository for SmarterJuan.org, a platform dedicated to providing affordable digital solutions such as Learning Management Systems (LMS), AI-integrated tools, web design, data management, CMS, training, and branding services—tailored to empower Filipino education and business growth.
 
 ## Features
-- **Affordable LMS**: A budget-friendly, open-source Learning Management System powered by Moodle.
+- **Affordable Open-sourced Softwares**: A budget-friendly, open-source Solutions.
 - **Learning Resources**: A wide range of curated, high-quality educational materials to support educators, students, and professionals.
 - **AI Integration**: Smart tools to enhance learning experiences and streamline processes.
 - **Training & Support**: Comprehensive training and customer support to ensure you get the most out of our services.
 
 ## Project Structure
 - `index.html`: The main landing page of the website.
-- `about.html`: Information about our mission and services.
-- `services.html`: Detailed descriptions of services provided.
-- `contact.html`: Contact form and support information.
 - `assets/`: All images, CSS, and JavaScript files used on the website.
 
 ## Getting Started
